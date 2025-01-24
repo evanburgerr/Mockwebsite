@@ -161,3 +161,91 @@
     width: 150px;
     text-align: center;
 }
+
+.quote-container{
+    background-color: #E5E7EB;
+    padding: 50px;
+}
+
+.quote-content{
+    padding: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.quote-top{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.quote{
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+    color: #1f2937;
+}
+
+.quote-bottom{
+    display: flex;
+    flex-direction: row;
+    align-items: right;
+    justify-content: right;
+    padding-right: 20px;
+}
+
+.thor{
+    font-size: 18px;
+    color:#1f2937;
+    font-weight: 1800px;
+}
+
+.cta-container{
+    background-color: FFFFFF;
+    padding: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    align-items: center;
+}
+
+.cta-content{
+    background-color: #3882f6;
+    height: 150px;
+    width: 1000px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: 10px;
+}
+
+.cta-left{
+    padding-left: 100px;
+}
+
+.cta-right{
+    padding-right: 100px;
+}
+.head{
+    font-size: 28px;
+    color:#F9FAF8;
+}
+
+.text{
+    font-size: 18px;
+    color:#F9FAF8
+}
+
+.cta-button{
+    border: 2px solid #F9FAF8;
+    border-radius: 5px;
+    font-size: 18px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left:30px;
+    padding-right:30px;
+    color:#F9FAF8;
+    background-color: transparent
+}
+
