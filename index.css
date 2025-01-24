@@ -249,3 +249,20 @@
     background-color: transparent
 }
 
+.footer-container{
+    background-color: #1f2937;
+    margin: 0px
+}
+
+.footer-content{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 50px
+}
+
+.footer-text{
+    font-size: 18px;
+    color: #f9f8fa;
+}
